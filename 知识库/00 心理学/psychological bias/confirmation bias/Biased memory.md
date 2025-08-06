@@ -1,0 +1,1 @@
+**Biased memory**: This is when we selectively remember information that supports our views while forgetting or discounting information that doesn't.

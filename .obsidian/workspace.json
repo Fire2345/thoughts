@@ -1,0 +1,375 @@
+{
+  "main": {
+    "id": "776609c4fcd77175",
+    "type": "split",
+    "children": [
+      {
+        "id": "1821c3b7d5fe149f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d910f61fe47956a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/06 锻炼/个人理解/跑步.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "跑步"
+            }
+          },
+          {
+            "id": "55c87eec814eb9a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/00 心理学/自我理解/个人成长.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "个人成长"
+            }
+          },
+          {
+            "id": "dfa6732bdb0883bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/00 心理学/常见的误区/脑补.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "脑补"
+            }
+          },
+          {
+            "id": "7b7133260b2903c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/00 心理学/自我理解/个人成长.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "个人成长"
+            }
+          },
+          {
+            "id": "216c5eceb2867b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/00 心理学/自我理解/个人成长.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "个人成长"
+            }
+          },
+          {
+            "id": "b7e7cecff87858b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/06 锻炼/个人理解/跑步.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "跑步"
+            }
+          },
+          {
+            "id": "7a8b3260dafae087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/00 心理学/常见的误区/小聪明.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "小聪明"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23fe61e99cb4945d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f7b3f4515258ea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da6dd4990a1707e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "25a43ee9df78f8ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "花钱买“环境”",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "087c96b61468ebe0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "26c61be5ac7b056a",
+    "type": "split",
+    "children": [
+      {
+        "id": "de767658676a946f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3de5eeca381145d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日记/2025-08-02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "2025-08-02 的反向链接列表"
+            }
+          },
+          {
+            "id": "1d434a6539aa1094",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日记/2025-07-30.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-07-30 的出链列表"
+            }
+          },
+          {
+            "id": "533c72ba3520bbf6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9a5159b43831a9d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "6e6b476f46405473",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7a8b3260dafae087",
+  "lastOpenFiles": [
+    "知识库/00 心理学/常见的误区/脑补.md",
+    "知识库/06 锻炼/个人理解/有氧运动.md",
+    "知识库/06 锻炼/个人理解/跑步.md",
+    "知识库/00 心理学/自我理解/个人成长.md",
+    "知识库/00 心理学/常见的误区/小聪明.md",
+    "日记/2025-08-06.md",
+    "知识库/06 锻炼/个人理解/法特莱克.md",
+    "知识库/06 锻炼/00 锻炼.md",
+    "读书笔记/00 Book Notes.md",
+    "README.md",
+    "读书笔记/Mastery/00 Mastery.md",
+    "知识库/06 锻炼/个人理解",
+    "知识库/06 锻炼",
+    "知识库/00 心理学/自我理解",
+    "日记/2025-08-04.md",
+    "知识库/05 教育/自我理解/教育.md",
+    "知识库/01 社会科学/自我理解/自我管理.md",
+    "日记/2025-08-05.md",
+    "知识库/01 社会科学/自我理解/目的.md",
+    "知识库/05 教育/00 教育.md",
+    "知识库/05 教育/自我理解/留学",
+    "知识库/04 政治学/00 政治学.md",
+    "知识库/05 教育/自我理解",
+    "知识库/05 教育/学科定义",
+    "知识库/04 政治学/自我理解",
+    "知识库/04 政治学/学科定义",
+    "知识库/03 认知学/00 认知学.md",
+    "知识库/03 认知学/自我理解/信念.md",
+    "知识库/03 认知学/自我理解/认知.md",
+    "知识库/01 社会科学/00 社会科学.md",
+    "知识库/03 认知学/自我理解",
+    "知识库/03 认知学/学科定义",
+    "知识库/01 社会科学/自我理解/格局.md",
+    "知识库/01 社会科学/学科定义/value.md",
+    "知识库/03 认知学/学科定义/belief.md",
+    "知识库/00 心理学/00.心理学.md"
+  ]
+}

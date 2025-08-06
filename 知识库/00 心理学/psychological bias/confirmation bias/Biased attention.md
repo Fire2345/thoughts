@@ -1,0 +1,1 @@
+This is when we selectively focus on information that confirms our views while ignoring or discounting data that doesn't.
