@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1821c3b7d5fe149f",
+        "id": "a6fa1dcce1685355",
         "type": "tabs",
         "children": [
           {
-            "id": "ab562d7fe198bfca",
+            "id": "e719c26a8f66dfff",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-08-11.md",
+                "file": "日记/2025-08-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,35 +30,10 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-08-11"
-            }
-          },
-          {
-            "id": "d3c586d4a6cda3d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/00 Book Notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "00 Book Notes"
+              "title": "2025-08-13"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 225.5
   },
   "right": {
     "id": "26c61be5ac7b056a",
@@ -215,17 +190,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3c586d4a6cda3d0",
+  "active": "e719c26a8f66dfff",
   "lastOpenFiles": [
+    "日记/2025-07-07.md",
+    "日记/2025-07-06.md",
+    "日记/2025-08-13.md",
+    "日记/2025-08-12.md",
     "日记/2025-08-11.md",
+    "日常&Model&fluidity/听/01 大哥的podcast订阅.md",
+    "读书笔记/00 Book Notes.md",
     "日常&Model&fluidity/01 饮食计划.md",
     "日记/2025-08-10.md",
-    "读书笔记/00 Book Notes.md",
     "日常&Model&fluidity/看/00 看.md",
     "README.md",
     "日常&Model&fluidity/00 日常&Model&fluidity.md",
     "日常&Model&fluidity/看/01 电影类别中英对照.md",
-    "日常&Model&fluidity/听/01 大哥的podcast订阅.md",
     "日常&Model&fluidity/看",
     "日常&Model&fluidity/听/02 音乐.md",
     "日常&Model&fluidity/听/00 听.md",
@@ -244,11 +223,7 @@
     "知识库/07 生活常识/00 生活常识.md",
     "知识库/07 生活常识/常见身体不适/02 代谢与循环系统/口臭.md",
     "知识库/08 营养学/02 碳水化合物/碳水化合物摄入过少.md",
-    "知识库/08 营养学/02 碳水化合物/00 碳水化合物.md",
     "知识库/08 营养学/02 碳水化合物",
-    "知识库/08 营养学/01 蛋白质/00 蛋白质.md",
-    "知识库/07 生活常识/常见身体不适/01 消化系统/00 消化系统.md",
-    "知识库/07 生活常识/常见身体不适/01 消化系统/便秘.md",
     "知识库/07 生活常识/常见身体不适/02 代谢与循环系统",
     "知识库/08 营养学/01 蛋白质",
     "知识库/07 生活常识/饮食指南/常见高蛋白食物营养含量表.markdown",
