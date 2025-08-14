@@ -10,7 +10,6 @@
           {
             "id": "e719c26a8f66dfff",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -28,12 +27,38 @@
                   "unlinkedCollapsed": true
                 }
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-08-13"
             }
+          },
+          {
+            "id": "631641de002fbc51",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记/00 Book Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "00 Book Notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,15 +215,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e719c26a8f66dfff",
+  "active": "631641de002fbc51",
   "lastOpenFiles": [
+    "日记/2025-07-10.md",
+    "日记/2025-07-09.md",
+    "读书笔记/00 Book Notes.md",
+    "日记/2025-07-08.md",
+    "日记/2025-08-14.md",
+    "日记/2025-08-12.md",
+    "日记/2025-08-13.md",
     "日记/2025-07-07.md",
     "日记/2025-07-06.md",
-    "日记/2025-08-13.md",
-    "日记/2025-08-12.md",
     "日记/2025-08-11.md",
     "日常&Model&fluidity/听/01 大哥的podcast订阅.md",
-    "读书笔记/00 Book Notes.md",
     "日常&Model&fluidity/01 饮食计划.md",
     "日记/2025-08-10.md",
     "日常&Model&fluidity/看/00 看.md",
@@ -218,11 +247,7 @@
     "知识库/09 饮食&做菜/蒸蛋.md",
     "知识库/09 饮食&做菜/焯菠菜.md",
     "知识库/09 饮食&做菜/00 饮食指南.md",
-    "知识库/09 饮食&做菜/常见高蛋白食物营养含量表.md",
     "知识库/09 饮食&做菜/未命名",
-    "知识库/07 生活常识/00 生活常识.md",
-    "知识库/07 生活常识/常见身体不适/02 代谢与循环系统/口臭.md",
-    "知识库/08 营养学/02 碳水化合物/碳水化合物摄入过少.md",
     "知识库/08 营养学/02 碳水化合物",
     "知识库/07 生活常识/常见身体不适/02 代谢与循环系统",
     "知识库/08 营养学/01 蛋白质",
