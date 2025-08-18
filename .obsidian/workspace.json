@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-08-13.md",
+                "file": "日常&Model&fluidity/看/00 看.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-13"
+              "title": "00 看"
             }
           },
           {
@@ -56,9 +56,57 @@
               "icon": "lucide-file",
               "title": "00 Book Notes"
             }
+          },
+          {
+            "id": "9ade81b06517e88e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/00 心理学/自我理解/需要.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "需要"
+            }
+          },
+          {
+            "id": "c6a8c594193a4077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025-08-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-18"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,38 +263,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "631641de002fbc51",
+  "active": "c6a8c594193a4077",
   "lastOpenFiles": [
+    "日常&Model&fluidity/看/00 看.md",
+    "日记/2025-08-18.md",
+    "读书笔记/00 Book Notes.md",
+    "日常&Model&fluidity/看/01 电影类别中英对照.md",
+    "日记/2025-08-17.md",
+    "日记/2025-08-16.md",
+    "日记/2025-08-15.md",
+    "日记/2025-08-13.md",
+    "知识库/00 心理学/自我理解/需要.md",
+    "知识库/00 心理学/自我理解/需求.md",
     "日记/2025-07-10.md",
     "日记/2025-07-09.md",
-    "读书笔记/00 Book Notes.md",
     "日记/2025-07-08.md",
     "日记/2025-08-14.md",
     "日记/2025-08-12.md",
-    "日记/2025-08-13.md",
     "日记/2025-07-07.md",
     "日记/2025-07-06.md",
     "日记/2025-08-11.md",
     "日常&Model&fluidity/听/01 大哥的podcast订阅.md",
     "日常&Model&fluidity/01 饮食计划.md",
     "日记/2025-08-10.md",
-    "日常&Model&fluidity/看/00 看.md",
     "README.md",
     "日常&Model&fluidity/00 日常&Model&fluidity.md",
-    "日常&Model&fluidity/看/01 电影类别中英对照.md",
     "日常&Model&fluidity/看",
     "日常&Model&fluidity/听/02 音乐.md",
     "日常&Model&fluidity/听/00 听.md",
     "日常&Model&fluidity/听",
     "日常&Model&fluidity",
     "日记/2025-08-08.md",
-    "日记/2025-08-09.md",
-    "知识库/08 营养学/03 热量/00 热量.md",
     "知识库/08 营养学/03 热量",
-    "知识库/08 营养学/01 蛋白质/蛋白质摄入占比过多.md",
-    "知识库/09 饮食&做菜/蒸蛋.md",
-    "知识库/09 饮食&做菜/焯菠菜.md",
-    "知识库/09 饮食&做菜/00 饮食指南.md",
     "知识库/09 饮食&做菜/未命名",
     "知识库/08 营养学/02 碳水化合物",
     "知识库/07 生活常识/常见身体不适/02 代谢与循环系统",
