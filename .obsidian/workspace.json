@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "26c61be5ac7b056a",
@@ -191,7 +192,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "25a43ee9df78f8ae",
+  "active": "6991ea07302f0262",
   "lastOpenFiles": [
     "日记/2025-08-22.md",
     "日记/2025-08-21.md",
