@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a6fa1dcce1685355",
+        "id": "71ac6840d0b5638d",
         "type": "tabs",
         "children": [
           {
-            "id": "5676ad746b9b90a3",
+            "id": "6991ea07302f0262",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "日记/2025-08-21.md",
-                "bFile": "日记/2025-08-21.md",
-                "aRef": ""
+                "file": "日记/2025-08-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: 2025-08-21"
+              "icon": "lucide-file",
+              "title": "2025-08-22"
             }
           }
         ]
@@ -53,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Keys",
+                "query": "Negative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +84,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,7 +191,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "5676ad746b9b90a3",
+  "active": "25a43ee9df78f8ae",
   "lastOpenFiles": [
     "日记/2025-08-22.md",
     "日记/2025-08-21.md",
