@@ -32,8 +32,33 @@
               "icon": "lucide-file",
               "title": "2025-08-24"
             }
+          },
+          {
+            "id": "b6cc6580078d78b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025-08-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-25"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +218,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "22f3a7cefa03e75f",
+  "active": "b6cc6580078d78b0",
   "lastOpenFiles": [
-    "日记/2025-08-22.md",
     "日记/2025-08-24.md",
+    "日记/2025-08-25.md",
+    "日记/2025-08-22.md",
     "知识库/10 生意/个人理解/顶级sku.md",
     "知识库/10 生意/个人理解/利润.md",
     "知识库/10 生意/个人理解/记账.md",
@@ -226,7 +252,6 @@
     "日记/2025-08-15.md",
     "日记/2025-08-13.md",
     "知识库/00 心理学/自我理解/需要.md",
-    "知识库/00 心理学/自我理解/需求.md",
     "日常&Model&fluidity/看",
     "日常&Model&fluidity/听",
     "日常&Model&fluidity",
