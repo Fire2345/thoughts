@@ -8,56 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15da1240ea05f2b0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/10 生意/个人理解/做生意第一层楼.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "做生意第一层楼"
-            }
-          },
-          {
-            "id": "fd89e3d0538132b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/10 生意/个人理解/顶级sku.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "顶级sku"
-            }
-          },
-          {
             "id": "22f3a7cefa03e75f",
             "type": "leaf",
             "pinned": true,
@@ -82,57 +32,8 @@
               "icon": "lucide-file",
               "title": "2025-08-24"
             }
-          },
-          {
-            "id": "906f204cf892c012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/10 生意/个人理解/利润.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "利润"
-            }
-          },
-          {
-            "id": "5b20e360373a1ff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/10 生意/个人理解/记账.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "记账"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "26c61be5ac7b056a",
@@ -293,8 +195,9 @@
   },
   "active": "22f3a7cefa03e75f",
   "lastOpenFiles": [
-    "知识库/10 生意/个人理解/顶级sku.md",
+    "日记/2025-08-22.md",
     "日记/2025-08-24.md",
+    "知识库/10 生意/个人理解/顶级sku.md",
     "知识库/10 生意/个人理解/利润.md",
     "知识库/10 生意/个人理解/记账.md",
     "知识库/10 生意/个人理解/平效.md",
@@ -306,7 +209,6 @@
     "知识库/10 生意/个人理解",
     "知识库/03 认知学/学科定义/Intelligence.md",
     "知识库/10 生意",
-    "日记/2025-08-22.md",
     "日记/2025-08-21.md",
     "读书笔记/00 Book Notes.md",
     "日记/2025-08-20.md",
