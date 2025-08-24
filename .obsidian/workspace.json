@@ -4,16 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "71ac6840d0b5638d",
+        "id": "e93dcee584cbb7e1",
         "type": "tabs",
         "children": [
           {
-            "id": "6991ea07302f0262",
+            "id": "15da1240ea05f2b0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/10 生意/个人理解/做生意第一层楼.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "做生意第一层楼"
+            }
+          },
+          {
+            "id": "fd89e3d0538132b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-08-22.md",
+                "file": "知识库/10 生意/个人理解/顶级sku.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +54,85 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-22"
+              "title": "顶级sku"
+            }
+          },
+          {
+            "id": "22f3a7cefa03e75f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025-08-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-08-24"
+            }
+          },
+          {
+            "id": "906f204cf892c012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/10 生意/个人理解/利润.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "利润"
+            }
+          },
+          {
+            "id": "5b20e360373a1ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/10 生意/个人理解/记账.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "记账"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,13 +185,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "26c61be5ac7b056a",
@@ -192,8 +291,21 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "6991ea07302f0262",
+  "active": "22f3a7cefa03e75f",
   "lastOpenFiles": [
+    "知识库/10 生意/个人理解/顶级sku.md",
+    "日记/2025-08-24.md",
+    "知识库/10 生意/个人理解/利润.md",
+    "知识库/10 生意/个人理解/记账.md",
+    "知识库/10 生意/个人理解/平效.md",
+    "知识库/10 生意/个人理解/做生意第一层楼.md",
+    "知识库/10 生意/个人理解/做生意地基.md",
+    "知识库/10 生意/学科定义/sku.md",
+    "知识库/10 生意/00 生意.md",
+    "知识库/10 生意/学科定义",
+    "知识库/10 生意/个人理解",
+    "知识库/03 认知学/学科定义/Intelligence.md",
+    "知识库/10 生意",
     "日记/2025-08-22.md",
     "日记/2025-08-21.md",
     "读书笔记/00 Book Notes.md",
@@ -213,22 +325,9 @@
     "日记/2025-08-13.md",
     "知识库/00 心理学/自我理解/需要.md",
     "知识库/00 心理学/自我理解/需求.md",
-    "日记/2025-07-10.md",
-    "日记/2025-07-09.md",
-    "日记/2025-07-08.md",
-    "日记/2025-08-14.md",
-    "日记/2025-08-12.md",
-    "日记/2025-07-07.md",
-    "日记/2025-07-06.md",
-    "日记/2025-08-11.md",
-    "日常&Model&fluidity/听/01 大哥的podcast订阅.md",
-    "日常&Model&fluidity/01 饮食计划.md",
     "日常&Model&fluidity/看",
     "日常&Model&fluidity/听",
     "日常&Model&fluidity",
-    "知识库/08 营养学/03 热量",
-    "知识库/09 饮食&做菜/未命名",
-    "知识库/08 营养学/02 碳水化合物",
-    "知识库/07 生活常识/常见身体不适/02 代谢与循环系统"
+    "知识库/08 营养学/03 热量"
   ]
 }
