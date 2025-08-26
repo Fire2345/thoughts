@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-08-25.md",
+                "file": "知识库/10 生意/个人理解/平效.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +54,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-25"
+              "title": "平效"
+            }
+          },
+          {
+            "id": "e93a6efcc2d975ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025-08-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-26"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Negative",
+                "query": "平效",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "26c61be5ac7b056a",
@@ -218,15 +241,16 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b6cc6580078d78b0",
+  "active": "e93a6efcc2d975ad",
   "lastOpenFiles": [
-    "日记/2025-08-24.md",
     "日记/2025-08-25.md",
+    "日记/2025-08-26.md",
+    "日记/2025-08-24.md",
+    "知识库/10 生意/个人理解/平效.md",
     "日记/2025-08-22.md",
     "知识库/10 生意/个人理解/顶级sku.md",
     "知识库/10 生意/个人理解/利润.md",
     "知识库/10 生意/个人理解/记账.md",
-    "知识库/10 生意/个人理解/平效.md",
     "知识库/10 生意/个人理解/做生意第一层楼.md",
     "知识库/10 生意/个人理解/做生意地基.md",
     "知识库/10 生意/学科定义/sku.md",
@@ -251,7 +275,6 @@
     "日记/2025-08-16.md",
     "日记/2025-08-15.md",
     "日记/2025-08-13.md",
-    "知识库/00 心理学/自我理解/需要.md",
     "日常&Model&fluidity/看",
     "日常&Model&fluidity/听",
     "日常&Model&fluidity",
