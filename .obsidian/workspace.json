@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-08-30.md",
+                "file": "日记/2025-08-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +80,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-30"
+              "title": "2025-08-31"
             }
           },
           {
@@ -270,8 +270,9 @@
   },
   "active": "4cce21e089a3f717",
   "lastOpenFiles": [
-    "日记/2025-08-29.md",
     "日记/2025-08-30.md",
+    "日记/2025-08-31.md",
+    "日记/2025-08-29.md",
     "日记/2025-07-16.md",
     "日记/2025-08-28.md",
     "日记/2025-08-26.md",
@@ -301,7 +302,6 @@
     "日记/2025-07-11.md",
     "未命名 1.base",
     "未命名 2.base",
-    "日常&Model&fluidity/看/01 电影类别中英对照.md",
     "日常&Model&fluidity/看",
     "日常&Model&fluidity/听",
     "日常&Model&fluidity",
