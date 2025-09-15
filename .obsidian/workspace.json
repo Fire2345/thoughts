@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-07-30.md",
+                "file": "读书笔记/00 Book Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-30"
+              "title": "00 Book Notes"
             }
           }
         ],
@@ -243,6 +243,7 @@
   },
   "active": "c63d1c910339fa1e",
   "lastOpenFiles": [
+    "日记/2025-07-30.md",
     "日记/未命名 1.md",
     "日记/2025-07-29.md",
     "日记/2025-07-28.md",
@@ -268,7 +269,6 @@
     "日记/2025-08-28.md",
     "日记/2025-08-26.md",
     "日记/2025-08-25.md",
-    "日记/2025-08-13.md",
     "2025-08-19.base",
     "读书笔记/Tiny Experiments",
     "读书笔记/嫌われる勇気",
