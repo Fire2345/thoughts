@@ -8,37 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62d4f4f65dff2164",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/嫌われる勇気/00　嫌われる勇気.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "00　嫌われる勇気"
-            }
-          },
-          {
-            "id": "95d622b06bfb39a2",
+            "id": "790b45258c80daf6",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-09-04.md",
+                "file": "日记/2025-09-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,16 +30,16 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-09-04"
+              "title": "2025-09-11"
             }
           },
           {
-            "id": "a767201d6b224d0e",
+            "id": "0883d18fdd0fda52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-09-10.md",
+                "file": "日记/2025-08-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,16 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-10"
+              "title": "2025-08-28"
             }
           },
           {
-            "id": "db444f7b12be1f61",
+            "id": "c63d1c910339fa1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-08-29.md",
+                "file": "日记/2025-09-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -102,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-29"
+              "title": "2025-09-15"
             }
           }
         ],
@@ -163,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "26c61be5ac7b056a",
@@ -266,43 +241,43 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a767201d6b224d0e",
+  "active": "c63d1c910339fa1e",
   "lastOpenFiles": [
-    "日记/2025-09-09.md",
-    "日记/2025-09-10.md",
-    "日记/2025-09-08.md",
-    "日记/2025-09-04.md",
-    "日记/2025-09-03.md",
-    "日记/2025-09-02.md",
-    "日记/2025-09-01.md",
-    "日记/2025-08-31.md",
-    "日记/2025-08-29.md",
-    "日记/2025-08-30.md",
-    "读书笔记/嫌われる勇気/00　嫌われる勇気.md",
-    "日记/2025-07-30.md",
-    "读书笔记/嫌われる勇気",
-    "日记/2025-07-16.md",
+    "日记/2025-09-11.md",
+    "日记/2025-09-15.md",
     "日记/2025-08-28.md",
     "日记/2025-08-26.md",
     "日记/2025-08-25.md",
-    "日记/2025-08-24.md",
-    "知识库/10 生意/个人理解/平效.md",
+    "日记/2025-08-13.md",
+    "日记/2025-08-12.md",
+    "日记/2025-08-11.md",
+    "日记/2025-08-10.md",
+    "日记/2025-08-09.md",
+    "日记/2025-08-08.md",
+    "日记/2025-08-07.md",
+    "日记/2025-08-06.md",
+    "日记/2025-08-05.md",
+    "日记/2025-08-04.md",
+    "日记/2025-08-03.md",
+    "日记/2025-08-02.md",
+    "日记/2025-08-01.md",
+    "日记/2025-08-16.md",
+    "日记/2025-08-17.md",
+    "日记/2025-08-18.md",
+    "日记/2025-08-19.md",
+    "日记/2025-08-20.md",
+    "日记/2025-08-21.md",
     "日记/2025-08-22.md",
-    "知识库/10 生意/个人理解/顶级sku.md",
-    "知识库/10 生意/个人理解/利润.md",
-    "知识库/10 生意/个人理解/记账.md",
-    "知识库/10 生意/个人理解/做生意第一层楼.md",
-    "知识库/10 生意/个人理解/做生意地基.md",
-    "知识库/10 生意/学科定义/sku.md",
-    "知识库/10 生意/00 生意.md",
+    "日记/2025-08-24.md",
+    "2025-08-19.base",
+    "读书笔记/Tiny Experiments",
+    "读书笔记/嫌われる勇気",
     "知识库/10 生意/学科定义",
     "知识库/10 生意/个人理解",
     "知识库/10 生意",
-    "2025-08-19.base",
     "未命名 1.base",
     "未命名 2.base",
     "日常&Model&fluidity/看",
-    "日常&Model&fluidity/听",
-    "日常&Model&fluidity"
+    "日常&Model&fluidity/听"
   ]
 }
