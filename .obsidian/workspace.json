@@ -135,8 +135,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,7 +241,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "c63d1c910339fa1e",
+  "active": "da6dd4990a1707e1",
   "lastOpenFiles": [
     "知识库/10 生意/个人理解/利润.md",
     "日记/2025-10-01.md",
