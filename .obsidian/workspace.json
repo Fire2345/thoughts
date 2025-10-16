@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-10-01.md",
+                "file": "日记/2025-10-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-01"
+              "title": "2025-10-17"
             }
           }
         ],
@@ -241,10 +241,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "da6dd4990a1707e1",
+  "active": "c63d1c910339fa1e",
   "lastOpenFiles": [
-    "知识库/10 生意/个人理解/利润.md",
     "日记/2025-10-01.md",
+    "日记/2025-10-17.md",
+    "知识库/10 生意/个人理解/利润.md",
     "日记/2025-09-17.md",
     "日记/2025-09-15.md",
     "日记/2025-08-28.md",
@@ -268,7 +269,6 @@
     "日记/2025-07-15.md",
     "日记/2025-07-14.md",
     "日记/2025-07-13.md",
-    "读书笔记/Mastery/00 Mastery.md",
     "2025-08-19.base",
     "读书笔记/Tiny Experiments",
     "读书笔记/嫌われる勇気",
