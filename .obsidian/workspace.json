@@ -8,13 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "790b45258c80daf6",
+            "id": "afaa12775c941a7c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-09-11.md",
+                "file": "读书笔记/00 Book Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,18 +27,17 @@
                   "unlinkedCollapsed": true
                 }
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-09-11"
+              "title": "00 Book Notes"
             }
           },
           {
-            "id": "0883d18fdd0fda52",
+            "id": "4b76f22eab23f56d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-08-28.md",
+                "file": "日记/2025-10-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-28"
-            }
-          },
-          {
-            "id": "c63d1c910339fa1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2025-10-29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-29"
+              "title": "2025-10-30"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,16 +215,21 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "c63d1c910339fa1e",
+  "active": "4b76f22eab23f56d",
   "lastOpenFiles": [
-    "日记/2025-10-17.md",
+    "读书笔记/00 Book Notes.md",
+    "读书笔记/Bring Yourself/00 Bring Yourself.md",
+    "日记/2025-10-30.md",
+    "读书笔记/Mastery/00 Mastery.md",
+    "读书笔记/Tiny Experiments/00 Tiny Experiments.md",
+    "读书笔记/Bring Yourself",
     "日记/2025-10-29.md",
+    "日记/2025-10-17.md",
     "日记/2025-10-01.md",
     "知识库/10 生意/个人理解/利润.md",
     "日记/2025-09-17.md",
     "日记/2025-09-15.md",
     "日记/2025-08-28.md",
-    "读书笔记/00 Book Notes.md",
     "日记/2025-07-30.md",
     "日记/未命名 1.md",
     "日记/2025-07-29.md",
@@ -265,10 +244,6 @@
     "日记/2025-07-19.md",
     "日记/2025-07-18.md",
     "日记/2025-07-17.md",
-    "日记/2025-07-16.md",
-    "日记/未命名.md",
-    "日记/2025-07-15.md",
-    "日记/2025-07-14.md",
     "2025-08-19.base",
     "读书笔记/Tiny Experiments",
     "读书笔记/嫌われる勇気",
@@ -277,7 +252,6 @@
     "知识库/10 生意",
     "未命名 1.base",
     "未命名 2.base",
-    "日常&Model&fluidity/看",
-    "日常&Model&fluidity/听"
+    "日常&Model&fluidity/看"
   ]
 }
