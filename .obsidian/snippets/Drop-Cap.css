@@ -1,0 +1,34 @@
+/* ==================== 超大首字母沉降（Drop Cap）- 杂志风 ====================
+   使用方法（二选一）：
+   1. 最简单：直接在新段落开头写文字，自动生效（推荐）
+   2. 只想个别段落生效：在段落最前面加 <span class="dropcap">I</span>
+*/
+
+.markdown-preview-view p:first-letter,
+.markdown-source-view.mod-cm6 .cm-line:first-of-type:first-letter {
+    float: left;
+    font-size: 4.6em;           /* 字母大小，可自行调 4.2~5.0 */
+    line-height: 0.85em;
+    font-weight: 900;
+    margin: 0.08em 0.15em -0.1em 0;  /* 右间距、上间距、微调下沉 */
+    padding: 0;
+    color: var(--text-normal);
+    /* 如果你想要字母颜色不同，取消下面这行注释 */
+    color: #00c861;
+}
+
+/* 可选：只对带有 .dropcap 类的段落生效（更精准控制） */
+.dropcap,
+.dropcap::first-letter {
+    float: left;
+    font-size: 4.8em;
+    line-height: 0.82em;
+    font-weight: 900;
+    margin: 0.05em 0.18em 0 0;
+    color: var(--text-normal);
+}
+
+/* 防止图片或列表被顶上去 */
+.dropcap + * {
+    clear: none;
+}
