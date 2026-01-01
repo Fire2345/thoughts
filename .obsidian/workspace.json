@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cbfe6e0931d4aa85",
+        "id": "9b1db61eeb78a8f3",
         "type": "tabs",
         "children": [
           {
-            "id": "8c3f7d356fc02d12",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/Bring Yourself/00 Bring Yourself.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "00 Bring Yourself"
-            }
-          },
-          {
-            "id": "10a5d3b500766e7c",
+            "id": "6438b03cd7ced387",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-12-11.md",
+                "file": "日本語の日記/2026-01-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-11"
-            }
-          },
-          {
-            "id": "d0da3569c86ae51c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2025-12-13.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-13"
+              "title": "2026-01-01"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,12 +190,15 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "d0da3569c86ae51c",
+  "active": "6438b03cd7ced387",
   "lastOpenFiles": [
-    "日记/2025-12-11.md",
-    "日记/2025-12-13.md",
-    "读书笔记/Bring Yourself/00 Bring Yourself.md",
+    "日本語の日記/未命名.md",
     "模板/日记模板.md",
+    "日本語の日記/2026-01-01.md",
+    "日本語の日記",
+    "日记/2025-12-13.md",
+    "日记/2025-12-11.md",
+    "读书笔记/Bring Yourself/00 Bring Yourself.md",
     "日记/2025-12-06.md",
     "日记/2025-12-01.md",
     "日记/2025-11-22.md",
@@ -268,8 +220,6 @@
     "日记/2025-08-28.md",
     "日记/2025-07-30.md",
     "日记/未命名 1.md",
-    "日记/2025-07-29.md",
-    "日记/2025-07-28.md",
     "2025-08-19.base",
     "读书笔记/Tiny Experiments",
     "读书笔记/嫌われる勇気",
@@ -277,7 +227,6 @@
     "知识库/10 生意/个人理解",
     "知识库/10 生意",
     "未命名 1.base",
-    "未命名 2.base",
-    "日常&Model&fluidity/看"
+    "未命名 2.base"
   ]
 }
