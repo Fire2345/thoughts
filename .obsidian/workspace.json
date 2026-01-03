@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-01-03.md",
+                "file": "日本語の日記/2026-01-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "26c61be5ac7b056a",
@@ -192,8 +193,9 @@
   },
   "active": "6438b03cd7ced387",
   "lastOpenFiles": [
-    "日本語の日記/2026-01-02.md",
     "日记/2026-01-03.md",
+    "日本語の日記/2026-01-03.md",
+    "日本語の日記/2026-01-02.md",
     "日记/2025-08-30.md",
     "日记/2025-08-26.md",
     "日记/2025-08-22.md",
@@ -218,7 +220,6 @@
     "模板/日记模板.md",
     "日本語の日記",
     "日记/2025-12-11.md",
-    "读书笔记/Bring Yourself/00 Bring Yourself.md",
     "读书笔记/Bring Yourself",
     "2025-08-19.base",
     "读书笔记/Tiny Experiments",
